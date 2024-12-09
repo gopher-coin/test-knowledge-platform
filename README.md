@@ -1,2 +1,2 @@
 # test-knowledge-platform
-Проєкт для тестування знань студентів
+A project for testing students' knowledge
